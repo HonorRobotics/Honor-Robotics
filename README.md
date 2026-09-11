@@ -32,7 +32,7 @@ Open source projects:
   </tr>
 
    <tr>
-    <td rowspan="1">honor_rl_deploy</td>
+    <td rowspan="1">honor-robot-sdk</td>
     <td><a href="https://github.com/HonorRobotics/honor-robot-sdk" target="_blank"> honor-robot-sdk</a> <br> ROS2 development SDK for Honor robots. Provides message interfaces (topic/service/action), C++/Python examples, and iceoryx + CycloneDDS middleware for external development. </td>
   </tr>  
   
